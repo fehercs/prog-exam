@@ -1,0 +1,27 @@
+: 1584351989:0;ls -la
+: 1584352016:0;cd Flow/ElsoSzakaszzaro/LINUX
+: 1584352024:0;touch linux.txt
+: 1584352753:0;clear
+: 1584353343:0;cat .zsh_history
+: 1584353374:0;cd Flow/ElsoSzakaszzaro/LINUX
+: 1584353378:0;ls 
+: 1584353402:0;touch zeta-szakaszzaro
+: 1584353433:0;echo Hello zeta-szakaszzaro
+: 1584353459:0;echo > zeta-szakaszzaro Hello
+: 1584353473:0;cat zeta-szakaszzaro
+: 1584353506:0;mv zeta-szakaszzaro feladat
+: 1584353511:0;ls
+: 1584353525:0;cp feladat feladat2
+: 1584353533:0;rm feladat2
+: 1584353548:0;cat feladat
+: 1584353631:0;cat /var/log/syslog | grep NetworkManager
+: 1584353846:0;cd /etc/systemd
+: 1584353853:0;ls -la
+: 1584353882:0;ifconfig
+: 1584353927:0;cd ~
+: 1584353946:0;cd Flow/ElsoSzakaszzaro/LINUX
+: 1584353948:0;ls
+: 1584353960:0;git init
+: 1584353988:0;gst
+: 1584354134:0;sudo apt install mysql-server
+: 1584354225:0;cp ~/.zsh_history zsh_history

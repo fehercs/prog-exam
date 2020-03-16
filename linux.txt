@@ -1,0 +1,24 @@
+1.
+UNIX-on alapuló előírások, mely a POSIX operációs rendszerek alapját képezi.
+
+2.
+Az X11 a GNU op. rendszerek shelljében futó szolgáltatás, mely töbek között a grafikus megjelenítésért felel.
+
+3.
+alapértelmezett bemenet, kimenet (billentyűzet, monitor).
+
+4.
+olyan folyamatok, melyek futtatásához nem szükséges a shell.
+
+5.
+/bin: rendszer számára elérhető binárisok
+/etc: konfigurációs fájlok
+/usr: felhasználó binárisai
+/home: felhasználó fájljai
+
+6.
+a pontal kezdődő fájlnevek rejtett fájloka tjelölnek
+
+7.
+relativ: ./mappa/file.txt
+abszolut: /home/user/mappa/file.txt
